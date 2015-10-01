@@ -1,9 +1,0 @@
-1.  The general problem area of interest to me
-    I’ve spent the majority of my career working on relational databases, specifically Oracle, so I’m interested in expanding my knowledge into the NoSQL area.  I’m curious to see how a NoSQL database stacks up to the reliability of a relational database design. 
-    I will be creating a DynamoDB database to that will track NFL Football team statistics and I will attempt to predict game results based on the data.
-
-2.  I’ll be using the following resources to assist with this project:
-    Sullivan, D. (2015). NoSQL for Mere Mortals. Addison-Wesley Professional.
-    Deshpande, T. (2014). Mastering DynamoDB. Packt Publishing.
-    National Football League Datasets:
-    http://www.pro-football-reference.com/years/2007/games.htm
